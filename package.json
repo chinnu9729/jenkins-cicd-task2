@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-cicd-task2",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for Jenkins CI/CD internship task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
